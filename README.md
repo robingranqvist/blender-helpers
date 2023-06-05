@@ -2,7 +2,7 @@
 
 # Blender helpers
 
-A couple helpers for working with Python in Blender 3.5 or any Blender version that uses Python v.3.10+.
+Just a couple helpers for working with Python in Blender 3.5 (Python 3.10) for personal artsy projects.
 
 ## Usage
 
