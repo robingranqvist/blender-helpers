@@ -4,7 +4,7 @@ A couple helpers for working with Python in Blender 3.5 or any Blender version t
 
 ## Usage
 
-Using external Python file is quite quirky in Blender for some reason. It should look something like this:
+Using external Python files in Blender scripts is quite quirky for some reason. The folder structure should however look something like this:
 
 ```
 .
