@@ -1,10 +1,12 @@
+![Header](github__header.jpg)
+
 # Blender helpers
 
 A couple helpers for working with Python in Blender 3.5 or any Blender version that uses Python v.3.10+.
 
 ## Usage
 
-Using external Python files in Blender scripts is quite quirky for some reason. The folder structure should however look something like this:
+Using external Python scripts in Blender is quite quirky for some reason. The folder structure should however look something like this:
 
 ```
 .
@@ -23,7 +25,7 @@ Create a Python file called whatever (script.py for example).
 
 ### Modules folder
 
-Create a modules folder (containing an **init**.py file) and throw the obj.py & scene.py into it.
+Create a modules folder (containing an init file) and throw the obj.py & scene.py into it.
 
 ### Import modules
 
