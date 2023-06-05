@@ -6,14 +6,16 @@ A couple helpers for working with Python in Blender 3.5 or any Blender version t
 
 Using external Python file is quite quirky in Blender for some reason. It should look something like this:
 
+```
 .
 ├── project
-│ ├── modules
-| ├── script.py
-│ │ ├── **init**.py
-│ │ ├── obj.py
-| │ ├── scene.py
+│   ├── modules
+|   ├── script.py
+│   │   ├── **init**.py
+│   │   ├── obj.py
+|   │   ├── scene.py
 └── ...
+```
 
 ### Script file
 
@@ -41,8 +43,8 @@ Open the scripting tab, import script.py and run.
 
 ### Scene
 
-<insert more info here>
+-insert more info here-
 
 ### Obj
 
-<insert more info here>
+-insert more info here-
