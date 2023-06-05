@@ -9,11 +9,11 @@ Using external Python file is quite quirky in Blender for some reason. It should
 ```
 .
 ├── project
-│   ├── modules
 |   ├── script.py
-│   │   ├── __ init __.py
-│   │   ├── obj.py
-|   │   ├── scene.py
+│   └── modules
+│       ├── __ init __.py
+│       ├── obj.py
+|       └── scene.py
 └── ...
 ```
 
